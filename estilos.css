@@ -6,7 +6,11 @@ body {
 h1 {
     font-family: sans-serif;
 }
-
+  
 li {
     font-family: monospace;
+}
+
+p {
+    size: 12pt;
 }
